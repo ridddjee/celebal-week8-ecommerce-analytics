@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,lenovo thinkpad,Electronics,Laptop,46577.32
+P0002,MacBook Air M3,Electronics,Mobile,74050.52
+P0003,  Apple Watch  ,Electronics,Laptop,55784.0
+P0004,SONY HEADPHONES,Electronics,Mobile,111833.74
+P0005,LOGITECH MOUSE,Electronics,Laptop,20411.35
+P0006,  Apple Watch  ,Electronics,Mobile,106730.15
+P0007,Dell Inspiron,Electronics,Laptop,65336.39
+P0008,logitech mouse,Electronics,Mobile,37239.82
+P0009,Dell Inspiron,Electronics,Mobile,93422.32
+P0010,HP Pavilion,Electronics,Laptop,56646.37
+P0011,  Dell Inspiron  ,Electronics,Accessories,54969.48
+P0012,  Lenovo ThinkPad  ,Electronics,Accessories,42463.97
+P0013,Lenovo ThinkPad,Electronics,Tablet,25353.86
+P0014,HP Pavilion,Electronics,Accessories,111004.7
+P0015,logitech mouse,Electronics,Mobile,74065.1
+P0016,  Dell Inspiron  ,Electronics,Mobile,42381.28
+P0017,  Boat Earbuds  ,Electronics,Tablet,45995.19
+P0018,dell inspiron,Electronics,Tablet,74827.9
+P0019,dell inspiron,Electronics,Accessories,42019.31
+P0020,HP Pavilion,Electronics,Tablet,63387.04
+P0021,LOGITECH MOUSE,Electronics,Tablet,34325.02
+P0022,Lenovo ThinkPad,Electronics,Mobile,70014.16
+P0023,Samsung Galaxy S24,Electronics,Mobile,95255.58
+P0024,APPLE WATCH,Electronics,Laptop,22136.63
+P0025,MACBOOK AIR M3,Electronics,Tablet,54186.07
+P0026,  Boat Earbuds  ,Electronics,Tablet,84224.86
+P0027,IPHONE 15,Electronics,Tablet,16244.35
+P0028,  Lenovo ThinkPad  ,Electronics,Accessories,16799.97
+P0029,Apple Watch,Electronics,Laptop,26236.73
+P0030,  Samsung Galaxy S24  ,Electronics,Laptop,35152.87
+P0031,lenovo thinkpad,Electronics,Accessories,43069.1
+P0032,APPLE WATCH,Electronics,Tablet,63194.76
+P0033,Dell Inspiron,Electronics,Laptop,46497.34
+P0034,  Samsung Galaxy S24  ,Electronics,Mobile,24817.55
+P0035,apple watch,Electronics,Tablet,20892.07
+P0036,  iPhone 15  ,Electronics,Mobile,67485.13
+P0037,  Apple Watch  ,Electronics,Accessories,74414.95
+P0038,Samsung Galaxy S24,Electronics,Mobile,39125.48
+P0039,boat earbuds,Electronics,Mobile,112036.72
+P0040,Sony Headphones,Electronics,Mobile,33832.22
+P0041,LOGITECH MOUSE,Electronics,Laptop,76638.79
+P0042,Apple Watch,Electronics,Accessories,32057.28
+P0043,  Dell Inspiron  ,Electronics,Tablet,86088.67
+P0044,lenovo thinkpad,Electronics,Laptop,98002.3
+P0045,  Samsung Galaxy S24  ,Electronics,Accessories,20638.13
+P0046,APPLE WATCH,Electronics,Mobile,50762.24
+P0047,Boat Earbuds,Electronics,Tablet,116736.66
+P0048,LOGITECH MOUSE,Electronics,Accessories,97272.55
+P0049,hp pavilion,Electronics,Accessories,73068.96
+P0050,apple watch,Electronics,Tablet,23997.88
+P0051,boat earbuds,Electronics,Laptop,89876.4
+P0052,samsung galaxy s24,Electronics,Tablet,89726.1
+P0053,  MacBook Air M3  ,Electronics,Accessories,52873.52
+P0054,SAMSUNG GALAXY S24,Electronics,Accessories,61697.27
+P0055,SONY HEADPHONES,Electronics,Mobile,34676.14
+P0056,  HP Pavilion  ,Electronics,Tablet,25845.76
+P0057,samsung galaxy s24,Electronics,Mobile,77677.08
+P0058,Logitech Mouse,Electronics,Mobile,45643.97
+P0059,Apple Watch,Electronics,Laptop,75055.85
+P0060,  MacBook Air M3  ,Electronics,Laptop,29578.21
+P0061,sony headphones,Electronics,Laptop,21643.05
+P0062,apple watch,Electronics,Accessories,65844.29
+P0063,samsung galaxy s24,Electronics,Laptop,90694.44
+P0064,  HP Pavilion  ,Electronics,Laptop,63075.47
+P0065,macbook air m3,Electronics,Tablet,49882.81
+P0066,boat earbuds,Electronics,Accessories,61223.41
+P0067,Apple Watch,Electronics,Laptop,46545.7
+P0068,Boat Earbuds,Electronics,Laptop,65296.02
+P0069,MacBook Air M3,Electronics,Accessories,45602.06
+P0070,HP Pavilion,Electronics,Laptop,49218.05
+P0071,Sony Headphones,Electronics,Tablet,53326.63
+P0072,BOAT EARBUDS,Electronics,Laptop,86579.83
+P0073,LENOVO THINKPAD,Electronics,Tablet,114012.37
+P0074,dell inspiron,Electronics,Accessories,102284.59
+P0075,Samsung Galaxy S24,Electronics,Tablet,85662.65
+P0076,  MacBook Air M3  ,Electronics,Laptop,41531.58
+P0077,  MacBook Air M3  ,Electronics,Tablet,22766.34
+P0078,boat earbuds,Electronics,Tablet,71108.58
+P0079,  Apple Watch  ,Electronics,Accessories,88671.6
+P0080,  Lenovo ThinkPad  ,Electronics,Mobile,26483.79
+P0081,  Dell Inspiron  ,Electronics,Accessories,32465.54
+P0082,BOAT EARBUDS,Electronics,Tablet,116515.17
+P0083,Logitech Mouse,Electronics,Tablet,26124.18
+P0084,samsung galaxy s24,Electronics,Laptop,61806.75
+P0085,apple watch,Electronics,Laptop,51221.58
+P0086,iphone 15,Electronics,Accessories,58677.42
+P0087,SAMSUNG GALAXY S24,Electronics,Laptop,51574.51
+P0088,logitech mouse,Electronics,Laptop,69717.06
+P0089,logitech mouse,Electronics,Tablet,90809.36
+P0090,hp pavilion,Electronics,Accessories,19691.72
+P0091,SAMSUNG GALAXY S24,Electronics,Accessories,83036.84
+P0092,MacBook Air M3,Electronics,Laptop,69179.36
+P0093,LENOVO THINKPAD,Electronics,Tablet,115638.58
+P0094,Dell Inspiron,Electronics,Laptop,34570.63
+P0095,apple watch,Electronics,Laptop,62205.38
+P0096,apple watch,Electronics,Laptop,36607.37
+P0097,  Samsung Galaxy S24  ,Electronics,Laptop,53408.27
+P0098,dell inspiron,Electronics,Accessories,85423.65
+P0099,  HP Pavilion  ,Electronics,Accessories,77681.94
+P0100,boat earbuds,Electronics,Mobile,51532.09
+P0101,  HP Pavilion  ,Electronics,Accessories,111461.67
+P0102,BOAT EARBUDS,Electronics,Laptop,47884.5
+P0103,dell inspiron,Electronics,Laptop,54197.14
+P0104,  MacBook Air M3  ,Electronics,Tablet,77624.71
+P0105,boat earbuds,Electronics,Laptop,66100.37
+P0106,  Lenovo ThinkPad  ,Electronics,Laptop,73265.82
+P0107,hp pavilion,Electronics,Laptop,48030.9
+P0108,  HP Pavilion  ,Electronics,Accessories,114943.4
+P0109,HP PAVILION,Electronics,Tablet,116202.05
+P0110,  Lenovo ThinkPad  ,Electronics,Tablet,86893.15
+P0111,  Apple Watch  ,Electronics,Tablet,66313.45
+P0112,  Samsung Galaxy S24  ,Electronics,Laptop,45669.44
+P0113,SONY HEADPHONES,Electronics,Accessories,32661.94
+P0114,  HP Pavilion  ,Electronics,Tablet,72721.25
+P0115,  Samsung Galaxy S24  ,Electronics,Accessories,96386.87
+P0116,  Logitech Mouse  ,Electronics,Mobile,94800.43
+P0117,  HP Pavilion  ,Electronics,Tablet,25753.73
+P0118,dell inspiron,Electronics,Mobile,62221.9
+P0119,Logitech Mouse,Electronics,Mobile,61102.34
+P0120,Samsung Galaxy S24,Electronics,Laptop,37037.21
+P0121,  Boat Earbuds  ,Electronics,Tablet,32428.07
+P0122,MacBook Air M3,Electronics,Laptop,99571.25
+P0123,boat earbuds,Electronics,Accessories,77670.06
+P0124,macbook air m3,Electronics,Accessories,45379.99
+P0125,Sony Headphones,Electronics,Mobile,29236.84
+P0126,Casual Shirt,Clothing,Women,7002.86
+P0127,  Blue Jeans  ,Clothing,Men,2372.58
+P0128,Sports Shoes,Clothing,Kids,3445.26
+P0129,  Blue Jeans  ,Clothing,Women,5208.6
+P0130,casual shirt,Clothing,Kids,6459.49
+P0131,hoodie,Clothing,Kids,2586.69
+P0132,sports shoes,Clothing,Women,2954.67
+P0133,Cotton T-Shirt,Clothing,Kids,1198.56
+P0134,  Formal Shirt  ,Clothing,Kids,3186.67
+P0135,Hoodie,Clothing,Women,2133.72
+P0136,Casual Shirt,Clothing,Women,2514.03
+P0137,sneakers,Clothing,Kids,1479.46
+P0138,Formal Shirt,Clothing,Kids,6216.91
+P0139,COTTON T-SHIRT,Clothing,Women,622.11
+P0140,blue jeans,Clothing,Men,7938.79
+P0141,CASUAL SHIRT,Clothing,Kids,7320.55
+P0142,SNEAKERS,Clothing,Women,1200.05
+P0143,sports shoes,Clothing,Women,5483.82
+P0144,BLUE JEANS,Clothing,Kids,2791.32
+P0145,jacket,Clothing,Men,5777.74
+P0146,COTTON T-SHIRT,Clothing,Men,1495.25
+P0147,  Jacket  ,Clothing,Women,569.65
+P0148,Sports Shoes,Clothing,Women,5705.23
+P0149,FORMAL SHIRT,Clothing,Women,1169.98
+P0150,HOODIE,Clothing,Women,7107.42
+P0151,blue jeans,Clothing,Men,5311.82
+P0152,BLUE JEANS,Clothing,Kids,563.56
+P0153,blue jeans,Clothing,Kids,2097.92
+P0154,Blue Jeans,Clothing,Kids,5649.25
+P0155,JACKET,Clothing,Men,1550.1
+P0156,  Hoodie  ,Clothing,Women,3136.52
+P0157,casual shirt,Clothing,Men,2358.4
+P0158,HOODIE,Clothing,Kids,5000.06
+P0159,kurta,Clothing,Kids,701.18
+P0160,SNEAKERS,Clothing,Kids,4321.42
+P0161,casual shirt,Clothing,Men,6378.51
+P0162,jacket,Clothing,Men,2308.11
+P0163,KURTA,Clothing,Men,7901.62
+P0164,SPORTS SHOES,Clothing,Kids,3656.48
+P0165,  Track Pant  ,Clothing,Women,7658.4
+P0166,HOODIE,Clothing,Men,603.45
+P0167,JACKET,Clothing,Men,7615.1
+P0168,  Casual Shirt  ,Clothing,Kids,5844.72
+P0169,casual shirt,Clothing,Women,1118.21
+P0170,  Track Pant  ,Clothing,Men,2581.01
+P0171,SNEAKERS,Clothing,Men,7807.35
+P0172,  Blue Jeans  ,Clothing,Women,4898.28
+P0173,hoodie,Clothing,Women,5974.69
+P0174,JACKET,Clothing,Men,7434.71
+P0175,hoodie,Clothing,Kids,912.71
+P0176,BLUE JEANS,Clothing,Kids,1529.09
+P0177,COTTON T-SHIRT,Clothing,Women,4422.54
+P0178,SNEAKERS,Clothing,Men,6123.32
+P0179,  Sneakers  ,Clothing,Men,6285.73
+P0180,cotton t-shirt,Clothing,Women,2539.85
+P0181,hoodie,Clothing,Kids,5206.5
+P0182,formal shirt,Clothing,Women,915.79
+P0183,KURTA,Clothing,Men,2413.37
+P0184,Hoodie,Clothing,Kids,5920.84
+P0185,  Jacket  ,Clothing,Men,830.28
+P0186,COTTON T-SHIRT,Clothing,Women,3229.82
+P0187,BLUE JEANS,Clothing,Men,4646.49
+P0188,CASUAL SHIRT,Clothing,Men,3621.92
+P0189,sports shoes,Clothing,Men,4786.52
+P0190,  Hoodie  ,Clothing,Men,1845.08
+P0191,Track Pant,Clothing,Women,1016.95
+P0192,Formal Shirt,Clothing,Women,2954.76
+P0193,track pant,Clothing,Women,2005.03
+P0194,Kurta,Clothing,Kids,5170.38
+P0195,formal shirt,Clothing,Women,7983.4
+P0196,  Jacket  ,Clothing,Kids,6203.62
+P0197,JACKET,Clothing,Women,679.33
+P0198,track pant,Clothing,Kids,7078.99
+P0199,SPORTS SHOES,Clothing,Kids,3322.06
+P0200,SNEAKERS,Clothing,Kids,7873.37
+P0201,casual shirt,Clothing,Men,7794.19
+P0202,  Blue Jeans  ,Clothing,Men,829.25
+P0203,Jacket,Clothing,Kids,3597.93
+P0204,sports shoes,Clothing,Kids,1136.77
+P0205,  Hoodie  ,Clothing,Kids,6649.72
+P0206,  Hoodie  ,Clothing,Men,3762.37
+P0207,BLUE JEANS,Clothing,Women,6881.85
+P0208,  Casual Shirt  ,Clothing,Kids,2946.89
+P0209,formal shirt,Clothing,Men,7576.66
+P0210,Blue Jeans,Clothing,Kids,1317.3
+P0211,HOODIE,Clothing,Women,2855.25
+P0212,  Hoodie  ,Clothing,Men,3889.38
+P0213,formal shirt,Clothing,Men,1178.16
+P0214,Sneakers,Clothing,Kids,5024.77
+P0215,Jacket,Clothing,Women,1612.43
+P0216,Jacket,Clothing,Women,4350.95
+P0217,sneakers,Clothing,Men,733.12
+P0218,Casual Shirt,Clothing,Kids,6110.59
+P0219,JACKET,Clothing,Men,6529.23
+P0220,BLUE JEANS,Clothing,Men,6727.79
+P0221,JACKET,Clothing,Women,3291.8
+P0222,  Hoodie  ,Clothing,Women,7380.71
+P0223,HOODIE,Clothing,Men,1983.13
+P0224,Formal Shirt,Clothing,Men,7288.08
+P0225,SPORTS SHOES,Clothing,Women,879.78
+P0226,kurta,Clothing,Kids,3462.49
+P0227,cotton t-shirt,Clothing,Women,1796.05
+P0228,Jacket,Clothing,Women,2598.91
+P0229,BLUE JEANS,Clothing,Kids,5127.33
+P0230,sneakers,Clothing,Kids,4092.73
+P0231,hoodie,Clothing,Men,3644.26
+P0232,TRACK PANT,Clothing,Kids,6461.35
+P0233,Casual Shirt,Clothing,Women,4097.63
+P0234,formal shirt,Clothing,Kids,4267.95
+P0235,casual shirt,Clothing,Men,2891.58
+P0236,JACKET,Clothing,Women,939.43
+P0237,  Formal Shirt  ,Clothing,Kids,7997.04
+P0238,BLUE JEANS,Clothing,Kids,2308.65
+P0239,Track Pant,Clothing,Kids,919.31
+P0240,  Jacket  ,Clothing,Women,3161.03
+P0241,BLUE JEANS,Clothing,Kids,2885.03
+P0242,Sports Shoes,Clothing,Men,5775.9
+P0243,Sports Shoes,Clothing,Kids,1565.77
+P0244,Jacket,Clothing,Women,4565.93
+P0245,blue jeans,Clothing,Men,921.26
+P0246,KURTA,Clothing,Kids,4084.92
+P0247,Sports Shoes,Clothing,Men,6548.34
+P0248,  Sports Shoes  ,Clothing,Women,946.67
+P0249,  Blue Jeans  ,Clothing,Men,6307.75
+P0250,Track Pant,Clothing,Men,3301.93
+P0251,  LED Lamp  ,Home,Furniture,7893.25
+P0252,Microwave,Home,Decor,23742.99
+P0253,  Wall Clock  ,Home,Kitchen,17825.98
+P0254,  Pressure Cooker  ,Home,Decor,19781.3
+P0255,  Mixer Grinder  ,Home,Kitchen,9770.41
+P0256,SOFA,Home,Decor,544.05
+P0257,water bottle,Home,Decor,1293.38
+P0258,water bottle,Home,Decor,5911.93
+P0259,WATER BOTTLE,Home,Furniture,3945.76
+P0260,OFFICE CHAIR,Home,Furniture,4613.24
+P0261,Office Chair,Home,Decor,16158.02
+P0262,curtains,Home,Furniture,5637.26
+P0263,office chair,Home,Kitchen,18150.13
+P0264,dining table,Home,Decor,10781.5
+P0265,Microwave,Home,Furniture,22103.38
+P0266,  Curtains  ,Home,Kitchen,20805.77
+P0267,  Water Bottle  ,Home,Decor,6026.78
+P0268,WALL CLOCK,Home,Kitchen,7725.26
+P0269,curtains,Home,Kitchen,2317.91
+P0270,Microwave,Home,Kitchen,18433.63
+P0271,Pressure Cooker,Home,Kitchen,8779.79
+P0272,Water Bottle,Home,Decor,1259.33
+P0273,  Microwave  ,Home,Furniture,4349.04
+P0274,office chair,Home,Kitchen,10527.36
+P0275,  Pressure Cooker  ,Home,Decor,13733.07
+P0276,sofa,Home,Kitchen,1716.07
+P0277,  Water Bottle  ,Home,Furniture,4262.95
+P0278,CURTAINS,Home,Kitchen,7716.46
+P0279,water bottle,Home,Kitchen,1130.52
+P0280,  Microwave  ,Home,Kitchen,12102.48
+P0281,office chair,Home,Furniture,12038.14
+P0282,SOFA,Home,Decor,9994.41
+P0283,Curtains,Home,Furniture,5071.28
+P0284,dining table,Home,Furniture,6953.32
+P0285,  Sofa  ,Home,Kitchen,18929.76
+P0286,OFFICE CHAIR,Home,Furniture,20300.41
+P0287,LED Lamp,Home,Decor,6074.06
+P0288,Dining Table,Home,Decor,10756.49
+P0289,  Pressure Cooker  ,Home,Furniture,14531.5
+P0290,mixer grinder,Home,Kitchen,10172.71
+P0291,  Dining Table  ,Home,Decor,20111.03
+P0292,WATER BOTTLE,Home,Furniture,4735.53
+P0293,Microwave,Home,Kitchen,3591.56
+P0294,LED LAMP,Home,Decor,11167.13
+P0295,Microwave,Home,Furniture,8333.86
+P0296,OFFICE CHAIR,Home,Decor,10235.2
+P0297,Curtains,Home,Decor,11724.85
+P0298,Dining Table,Home,Decor,14895.61
+P0299,LED LAMP,Home,Kitchen,4130.89
+P0300,  Water Bottle  ,Home,Kitchen,23160.74
+P0301,Water Bottle,Home,Furniture,21753.14
+P0302,Curtains,Home,Furniture,9884.57
+P0303,  Wall Clock  ,Home,Furniture,1417.91
+P0304,sofa,Home,Decor,15412.05
+P0305,LED LAMP,Home,Furniture,17417.59
+P0306,  Dining Table  ,Home,Furniture,22477.27
+P0307,dining table,Home,Furniture,8118.26
+P0308,Wall Clock,Home,Decor,2906.33
+P0309,MIXER GRINDER,Home,Decor,11356.21
+P0310,curtains,Home,Furniture,15321.99
+P0311,OFFICE CHAIR,Home,Kitchen,22879.1
+P0312,  LED Lamp  ,Home,Decor,21746.13
+P0313,  Dining Table  ,Home,Kitchen,2107.62
+P0314,pressure cooker,Home,Decor,22043.65
+P0315,DINING TABLE,Home,Kitchen,21005.93
+P0316,MIXER GRINDER,Home,Kitchen,22991.76
+P0317,mixer grinder,Home,Furniture,12875.6
+P0318,  Office Chair  ,Home,Kitchen,9625.44
+P0319,water bottle,Home,Furniture,14878.57
+P0320,curtains,Home,Furniture,18849.55
+P0321,office chair,Home,Furniture,1716.45
+P0322,Water Bottle,Home,Kitchen,21499.22
+P0323,  Mixer Grinder  ,Home,Furniture,16463.89
+P0324,PRESSURE COOKER,Home,Decor,718.0
+P0325,  Microwave  ,Home,Decor,20121.19
+P0326,mixer grinder,Home,Furniture,17962.14
+P0327,sofa,Home,Furniture,21363.86
+P0328,wall clock,Home,Furniture,7902.55
+P0329,Pressure Cooker,Home,Furniture,14819.94
+P0330,  Dining Table  ,Home,Decor,24178.89
+P0331,  Curtains  ,Home,Decor,15421.73
+P0332,  Sofa  ,Home,Furniture,2064.01
+P0333,  Sofa  ,Home,Furniture,6898.1
+P0334,SOFA,Home,Decor,19254.12
+P0335,Dining Table,Home,Decor,10400.41
+P0336,  Curtains  ,Home,Decor,1123.65
+P0337,Wall Clock,Home,Furniture,22719.33
+P0338,led lamp,Home,Kitchen,14784.08
+P0339,Water Bottle,Home,Furniture,18300.47
+P0340,  Mixer Grinder  ,Home,Decor,19729.98
+P0341,  Curtains  ,Home,Kitchen,21095.65
+P0342,PRESSURE COOKER,Home,Kitchen,12034.13
+P0343,  Sofa  ,Home,Decor,19191.5
+P0344,Microwave,Home,Furniture,16533.65
+P0345,mixer grinder,Home,Decor,21850.09
+P0346,LED Lamp,Home,Furniture,9606.22
+P0347,water bottle,Home,Kitchen,12028.15
+P0348,  Water Bottle  ,Home,Decor,2244.79
+P0349,  Mixer Grinder  ,Home,Decor,9850.9
+P0350,sofa,Home,Kitchen,3865.45
+P0351,mixer grinder,Home,Decor,22374.71
+P0352,WALL CLOCK,Home,Decor,4918.74
+P0353,office chair,Home,Decor,24672.69
+P0354,  Curtains  ,Home,Kitchen,11575.3
+P0355,Mixer Grinder,Home,Kitchen,14618.83
+P0356,microwave,Home,Kitchen,3670.45
+P0357,  LED Lamp  ,Home,Furniture,11011.12
+P0358,wall clock,Home,Kitchen,13577.67
+P0359,Curtains,Home,Furniture,19042.77
+P0360,PRESSURE COOKER,Home,Decor,601.03
+P0361,MIXER GRINDER,Home,Furniture,8146.26
+P0362,office chair,Home,Decor,7999.82
+P0363,Office Chair,Home,Furniture,23737.35
+P0364,  Wall Clock  ,Home,Decor,13340.88
+P0365,LED Lamp,Home,Kitchen,8896.95
+P0366,wall clock,Home,Kitchen,4539.65
+P0367,LED LAMP,Home,Kitchen,18315.64
+P0368,MICROWAVE,Home,Kitchen,14947.47
+P0369,MICROWAVE,Home,Decor,16438.24
+P0370,dining table,Home,Decor,6766.83
+P0371,  Pressure Cooker  ,Home,Decor,24869.67
+P0372,  Office Chair  ,Home,Kitchen,1681.76
+P0373,office chair,Home,Furniture,3528.08
+P0374,sofa,Home,Kitchen,5534.63
+P0375,dining table,Home,Decor,2974.01
+P0376,harry potter,Books,Fiction,1826.63
+P0377,Rich Dad Poor Dad,Books,Education,1401.07
+P0378,THE ALCHEMIST,Books,Education,2015.71
+P0379,THINK AND GROW RICH,Books,Education,2000.41
+P0380,Harry Potter,Books,Biography,1832.73
+P0381,DEEP LEARNING,Books,Fiction,1366.8
+P0382,  Machine Learning  ,Books,Biography,993.86
+P0383,PYTHON PROGRAMMING,Books,Education,2290.48
+P0384,  The Alchemist  ,Books,Education,2386.25
+P0385,HARRY POTTER,Books,Fiction,477.9
+P0386,  Deep Learning  ,Books,Biography,2474.5
+P0387,deep learning,Books,Education,474.57
+P0388,Data Engineering,Books,Biography,1060.48
+P0389,atomic habits,Books,Education,463.75
+P0390,PYTHON PROGRAMMING,Books,Education,1742.55
+P0391,data engineering,Books,Biography,2398.95
+P0392,Deep Learning,Books,Education,1088.4
+P0393,ATOMIC HABITS,Books,Biography,1150.56
+P0394,think and grow rich,Books,Biography,1802.28
+P0395,Think and Grow Rich,Books,Fiction,2243.78
+P0396,DATA ENGINEERING,Books,Fiction,1884.43
+P0397,DATA ENGINEERING,Books,Fiction,1336.02
+P0398,  The Alchemist  ,Books,Education,1625.48
+P0399,  Atomic Habits  ,Books,Fiction,2229.89
+P0400,data engineering,Books,Biography,504.11
+P0401,rich dad poor dad,Books,Education,838.63
+P0402,ATOMIC HABITS,Books,Fiction,1430.84
+P0403,  The Alchemist  ,Books,Education,2450.27
+P0404,  Atomic Habits  ,Books,Fiction,1826.31
+P0405,sql mastery,Books,Fiction,809.3
+P0406,  Atomic Habits  ,Books,Fiction,1115.97
+P0407,Harry Potter,Books,Fiction,372.77
+P0408,  Data Engineering  ,Books,Biography,2166.71
+P0409,DATA ENGINEERING,Books,Biography,971.43
+P0410,Atomic Habits,Books,Education,1390.59
+P0411,  Harry Potter  ,Books,Biography,2088.48
+P0412,sql mastery,Books,Fiction,1258.22
+P0413,think and grow rich,Books,Education,2456.51
+P0414,PYTHON PROGRAMMING,Books,Biography,330.62
+P0415,HARRY POTTER,Books,Education,2031.51
+P0416,  The Alchemist  ,Books,Fiction,1515.25
+P0417,Think and Grow Rich,Books,Biography,2106.95
+P0418,Machine Learning,Books,Biography,1510.34
+P0419,  The Alchemist  ,Books,Fiction,1728.63
+P0420,THINK AND GROW RICH,Books,Fiction,748.93
+P0421,atomic habits,Books,Fiction,2419.98
+P0422,  Deep Learning  ,Books,Biography,1829.72
+P0423,Python Programming,Books,Biography,566.01
+P0424,RICH DAD POOR DAD,Books,Fiction,690.82
+P0425,SQL Mastery,Books,Biography,735.08
+P0426,  Machine Learning  ,Books,Education,1953.59
+P0427,Python Programming,Books,Fiction,1574.82
+P0428,think and grow rich,Books,Fiction,2401.43
+P0429,Data Engineering,Books,Education,1443.32
+P0430,  Python Programming  ,Books,Biography,2137.34
+P0431,Think and Grow Rich,Books,Education,1806.59
+P0432,  Data Engineering  ,Books,Education,483.0
+P0433,  The Alchemist  ,Books,Biography,1384.25
+P0434,rich dad poor dad,Books,Fiction,2310.8
+P0435,machine learning,Books,Biography,2433.61
+P0436,Think and Grow Rich,Books,Education,1178.68
+P0437,harry potter,Books,Fiction,1482.56
+P0438,  Atomic Habits  ,Books,Fiction,1673.31
+P0439,MACHINE LEARNING,Books,Fiction,903.8
+P0440,Atomic Habits,Books,Education,2458.0
+P0441,  Data Engineering  ,Books,Fiction,1682.97
+P0442,SQL Mastery,Books,Fiction,1330.83
+P0443,The Alchemist,Books,Fiction,1189.33
+P0444,harry potter,Books,Biography,2068.69
+P0445,HARRY POTTER,Books,Biography,576.99
+P0446,PYTHON PROGRAMMING,Books,Education,2462.95
+P0447,DEEP LEARNING,Books,Education,1803.84
+P0448,DEEP LEARNING,Books,Fiction,322.69
+P0449,THINK AND GROW RICH,Books,Fiction,1913.86
+P0450,  Machine Learning  ,Books,Fiction,1124.99
+P0451,Harry Potter,Books,Fiction,897.19
+P0452,Python Programming,Books,Biography,1187.27
+P0453,Atomic Habits,Books,Education,279.17
+P0454,DEEP LEARNING,Books,Biography,2117.46
+P0455,Atomic Habits,Books,Fiction,1911.51
+P0456,Machine Learning,Books,Education,911.9
+P0457,Data Engineering,Books,Education,670.7
+P0458,  Data Engineering  ,Books,Education,1098.7
+P0459,rich dad poor dad,Books,Biography,542.65
+P0460,The Alchemist,Books,Education,993.77
+P0461,DATA ENGINEERING,Books,Biography,1592.98
+P0462,The Alchemist,Books,Biography,1353.74
+P0463,  The Alchemist  ,Books,Education,2014.07
+P0464,  Atomic Habits  ,Books,Education,1421.36
+P0465,HARRY POTTER,Books,Fiction,1458.33
+P0466,sql mastery,Books,Education,1742.5
+P0467,atomic habits,Books,Education,2388.19
+P0468,  The Alchemist  ,Books,Fiction,2103.3
+P0469,PYTHON PROGRAMMING,Books,Biography,1252.75
+P0470,The Alchemist,Books,Education,2407.52
+P0471,atomic habits,Books,Education,1118.22
+P0472,  Harry Potter  ,Books,Education,2300.51
+P0473,  Atomic Habits  ,Books,Fiction,1252.5
+P0474,python programming,Books,Fiction,683.15
+P0475,HARRY POTTER,Books,Education,626.64
+P0476,  Harry Potter  ,Books,Fiction,397.31
+P0477,Machine Learning,Books,Biography,2130.25
+P0478,  Machine Learning  ,Books,Fiction,2226.93
+P0479,  Rich Dad Poor Dad  ,Books,Education,1930.5
+P0480,DATA ENGINEERING,Books,Fiction,996.36
+P0481,SQL MASTERY,Books,Education,2036.98
+P0482,HARRY POTTER,Books,Education,2299.72
+P0483,rich dad poor dad,Books,Fiction,1160.01
+P0484,ATOMIC HABITS,Books,Fiction,516.19
+P0485,  Python Programming  ,Books,Fiction,392.28
+P0486,THE ALCHEMIST,Books,Education,1054.83
+P0487,HARRY POTTER,Books,Fiction,928.04
+P0488,sql mastery,Books,Biography,1108.18
+P0489,python programming,Books,Fiction,744.7
+P0490,Rich Dad Poor Dad,Books,Fiction,913.7
+P0491,data engineering,Books,Fiction,1707.87
+P0492,  Python Programming  ,Books,Fiction,568.09
+P0493,PYTHON PROGRAMMING,Books,Fiction,1136.68
+P0494,Harry Potter,Books,Biography,722.62
+P0495,ATOMIC HABITS,Books,Fiction,2165.78
+P0496,DATA ENGINEERING,Books,Education,1637.99
+P0497,DEEP LEARNING,Books,Education,1759.7
+P0498,The Alchemist,Books,Fiction,1287.85
+P0499,HARRY POTTER,Books,Fiction,401.57
+P0500,SQL MASTERY,Books,Fiction,1346.18

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# SQLite Database
+database/*.db
+database/*.sqlite
+
+# Logs
+*.log
+
+# Output Reports
+output/sample_reports/*.csv
+output/sample_reports/*.xlsx
+output/sample_reports/*.pdf
+
+# OS Files
+.DS_Store
+Thumbs.db
