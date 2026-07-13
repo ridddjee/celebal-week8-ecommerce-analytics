@@ -271,7 +271,7 @@ This project is licensed under the MIT License.
 
 **Ridam Agrawal**
 
-B.Tech (Computer Science)
+B.Tech (JECRC FOUNDATION)
 
 Celebal Technologies Data Engineering Internship
 
